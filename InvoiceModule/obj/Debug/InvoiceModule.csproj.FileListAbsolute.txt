@@ -1,0 +1,18 @@
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\InvoiceModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\InvoiceModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.csprojResolveAssemblyReference.cache
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.pdb
+C:\Users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\CommanModule.dll
+C:\Users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\DataBase.dll
+C:\Users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\CommanModule.pdb
+C:\Users\chaminda\documents\visual studio 2012\Projects\POSsystem\InvoiceModule\bin\Debug\DataBase.pdb
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\InvoiceModule.dll
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\InvoiceModule.pdb
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\DataBase.dll
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\bin\Debug\DataBase.pdb
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.csprojResolveAssemblyReference.cache
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.dll
+H:\Console_Pos_system\version1\POSsystem\InvoiceModule\obj\Debug\InvoiceModule.pdb

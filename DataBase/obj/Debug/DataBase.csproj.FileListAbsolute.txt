@@ -1,0 +1,14 @@
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\bin\Debug\DataBase.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\bin\Debug\DataBase.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\obj\Debug\DataBase.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\obj\Debug\DataBase.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\bin\Debug\CommanModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\DataBase\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\DataBase\bin\Debug\DataBase.dll
+H:\Console_Pos_system\version1\POSsystem\DataBase\bin\Debug\DataBase.pdb
+H:\Console_Pos_system\version1\POSsystem\DataBase\bin\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\DataBase\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+H:\Console_Pos_system\version1\POSsystem\DataBase\obj\Debug\DataBase.dll
+H:\Console_Pos_system\version1\POSsystem\DataBase\obj\Debug\DataBase.pdb

@@ -1,0 +1,32 @@
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\obj\Debug\TestAppliction.csprojResolveAssemblyReference.cache
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\TestAppliction.exe.config
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\TestAppliction.exe
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\TestAppliction.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\DataBase.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\ProductModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\DataBase.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\ProductModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\obj\Debug\TestAppliction.exe
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\obj\Debug\TestAppliction.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\CommanModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\CommanModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\StockModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\StockModule.pdb
+C:\Users\chaminda\Documents\Visual Studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\InvoiceModule.dll
+C:\Users\chaminda\Documents\Visual Studio 2012\Projects\POSsystem\TestAppliction\bin\Debug\InvoiceModule.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\TestAppliction.exe.config
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\obj\Debug\TestAppliction.exe
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\obj\Debug\TestAppliction.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\TestAppliction.exe
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\TestAppliction.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\DataBase.dll
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\InvoiceModule.dll
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\ProductModule.dll
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\StockModule.dll
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\DataBase.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\InvoiceModule.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\ProductModule.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\bin\Debug\StockModule.pdb
+H:\Console_Pos_system\version1\POSsystem\TestAppliction\obj\Debug\TestAppliction.csprojResolveAssemblyReference.cache

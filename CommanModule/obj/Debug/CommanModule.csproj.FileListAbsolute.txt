@@ -1,0 +1,10 @@
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\CommanModule\bin\Debug\CommanModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\CommanModule\bin\Debug\CommanModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\CommanModule\obj\Debug\CommanModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\CommanModule\obj\Debug\CommanModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\CommanModule\obj\Debug\CommanModule.csprojResolveAssemblyReference.cache
+H:\Console_Pos_system\version1\POSsystem\CommanModule\bin\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\CommanModule\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\CommanModule\obj\Debug\CommanModule.csprojResolveAssemblyReference.cache
+H:\Console_Pos_system\version1\POSsystem\CommanModule\obj\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\CommanModule\obj\Debug\CommanModule.pdb

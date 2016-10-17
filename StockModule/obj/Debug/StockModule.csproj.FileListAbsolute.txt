@@ -1,0 +1,18 @@
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\StockModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\StockModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\obj\Debug\StockModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\obj\Debug\StockModule.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\DataBase.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\DataBase.pdb
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\obj\Debug\StockModule.csprojResolveAssemblyReference.cache
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\CommanModule.dll
+c:\users\chaminda\documents\visual studio 2012\Projects\POSsystem\StockModule\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\StockModule.dll
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\StockModule.pdb
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\CommanModule.dll
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\DataBase.dll
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\CommanModule.pdb
+H:\Console_Pos_system\version1\POSsystem\StockModule\bin\Debug\DataBase.pdb
+H:\Console_Pos_system\version1\POSsystem\StockModule\obj\Debug\StockModule.csprojResolveAssemblyReference.cache
+H:\Console_Pos_system\version1\POSsystem\StockModule\obj\Debug\StockModule.dll
+H:\Console_Pos_system\version1\POSsystem\StockModule\obj\Debug\StockModule.pdb
